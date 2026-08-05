@@ -34,5 +34,5 @@ End-to-end product development published on the **App Store** and **Google Play*
 ## 📫 Contact
 
 - **LinkedIn:** [carlos-mufer](https://www.linkedin.com/in/carlos-mufer/)
-- **Portfolio:** [unlockthis.site](https://unlockthis.site)
-- **Email:** carlos.nextgen@gmail.com
+- **Portfolio:** [carlosmunozf](https://carlosmunozf.com)
+- **Email:** hello@carlosmunozf.com
