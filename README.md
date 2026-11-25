@@ -4,7 +4,7 @@
 
 **From sensor to dashboard. From prototype to the App Store. From ticket to PR.**
 
-📍 Madrid, Spain · Tech Lead · AI-native full-stack engineer · Open to US remote roles (4+ h overlap with ET)
+📍 Madrid, Spain · Tech Lead · AI-native full-stack engineer
 
 `⚙️ Real-time systems in 24/7 production` &nbsp; `🤖 AI-native since early 2023` &nbsp; `🚀 3M+ store impressions` &nbsp; `📱 15+ apps on App Store & Google Play` &nbsp; `🏦 Background in high-volume banking & payments`
 
